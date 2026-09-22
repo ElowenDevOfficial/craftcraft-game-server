@@ -1,0 +1,6 @@
+{
+	"versions":
+	[
+		{"name": "v0.0.0", "filename": "game_v0.0.0.pck"}
+	]
+}
